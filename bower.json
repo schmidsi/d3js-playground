@@ -1,7 +1,9 @@
 {
   "name": "d3js-playground",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "d3": "~3.5.9"
+  },
   "devDependencies": {
     "chai": "~3.4.2",
     "mocha": "~2.3.4"
